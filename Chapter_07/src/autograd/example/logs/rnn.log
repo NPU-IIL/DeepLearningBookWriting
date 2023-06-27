@@ -1,0 +1,126 @@
+Training RNN...
+Iteration 0 Train loss: 4.685472496003773
+Iteration 10 Train loss: 2.984114466167989
+Iteration 20 Train loss: 2.620939009412164
+Iteration 30 Train loss: 2.283878215510259
+Iteration 40 Train loss: 2.064654178356624
+Iteration 50 Train loss: 2.064576137929048
+Iteration 60 Train loss: 1.8415682007191252
+Iteration 70 Train loss: 1.7363565072957678
+Iteration 80 Train loss: 1.6342526902801173
+Iteration 90 Train loss: 1.5815875128436232
+Iteration 100 Train loss: 1.4844242767429907
+Iteration 110 Train loss: 1.4278273405722361
+Iteration 120 Train loss: 1.6415186849829628
+Iteration 130 Train loss: 1.5667468527237765
+Iteration 140 Train loss: 1.4098736462954244
+Iteration 150 Train loss: 1.3086250391906797
+Iteration 160 Train loss: 1.2804727863688434
+Iteration 170 Train loss: 1.3545441253149915
+Iteration 180 Train loss: 1.3206247629864225
+Iteration 190 Train loss: 1.213807467466755
+Iteration 200 Train loss: 1.1586303965208766
+Iteration 210 Train loss: 1.1681536841893982
+Iteration 220 Train loss: 1.3871081181968348
+Iteration 230 Train loss: 1.2333190505114167
+Iteration 240 Train loss: 1.1593247946518475
+Iteration 250 Train loss: 1.1469778216562718
+Iteration 260 Train loss: 1.1052319599840972
+Iteration 270 Train loss: 1.2252462585910615
+Iteration 280 Train loss: 1.1384116758622604
+Iteration 290 Train loss: 1.097073869996803
+Iteration 300 Train loss: 1.1288321607441425
+Iteration 310 Train loss: 1.0493604294529661
+Iteration 320 Train loss: 0.9808395468028106
+Iteration 330 Train loss: 0.9385543768208386
+Iteration 340 Train loss: 1.032031356094342
+Iteration 350 Train loss: 1.7481513399039352
+Iteration 360 Train loss: 1.419502152250679
+Iteration 370 Train loss: 1.357985479312167
+Iteration 380 Train loss: 1.5574270438182818
+Iteration 390 Train loss: 1.3432881370698893
+Iteration 400 Train loss: 1.1859809763471074
+Iteration 410 Train loss: 1.1231534354581276
+Iteration 420 Train loss: 1.0833211762926251
+Iteration 430 Train loss: 1.0719530938570807
+Iteration 440 Train loss: 1.0817531562064255
+Iteration 450 Train loss: 1.1977403156731
+Iteration 460 Train loss: 1.2132833965742058
+Iteration 470 Train loss: 1.1708413022804685
+Iteration 480 Train loss: 1.1908472041108373
+Iteration 490 Train loss: 1.1610698873384468
+Iteration 500 Train loss: 1.0592193986379799
+Iteration 510 Train loss: 0.9906960567651172
+Iteration 520 Train loss: 0.9531410817557563
+Iteration 530 Train loss: 0.9492127611230158
+Iteration 540 Train loss: 0.9354773638189924
+Iteration 550 Train loss: 1.6721102654224043
+Iteration 560 Train loss: 1.4000013777063762
+Iteration 570 Train loss: 1.223906653815051
+Iteration 580 Train loss: 1.0904992594488467
+Iteration 590 Train loss: 1.0226948243578091
+Iteration 600 Train loss: 0.9706794098220907
+Iteration 610 Train loss: 0.9407298843921088
+Iteration 620 Train loss: 0.992696968583395
+Iteration 630 Train loss: 0.9594664254691616
+Iteration 640 Train loss: 0.9358047013275269
+Iteration 650 Train loss: 0.9313640644553037
+Iteration 660 Train loss: 0.8957942729290215
+Iteration 670 Train loss: 2.200542300043789
+Iteration 680 Train loss: 1.688577256973947
+Iteration 690 Train loss: 1.8921887440570135
+Iteration 700 Train loss: 1.6284160847701883
+Iteration 710 Train loss: 1.4003495741512038
+Iteration 720 Train loss: 1.3112391424366663
+Iteration 730 Train loss: 1.2216325810676787
+Iteration 740 Train loss: 1.1596267030230019
+Iteration 750 Train loss: 2.2971940070607024
+Iteration 760 Train loss: 1.814851508720655
+Iteration 770 Train loss: 1.4967006146294053
+Iteration 780 Train loss: 1.414408854478949
+Iteration 790 Train loss: 1.2718929397936893
+Iteration 800 Train loss: 1.1706416281792291
+Iteration 810 Train loss: 1.1120894868419213
+Iteration 820 Train loss: 1.0762597426892584
+Iteration 830 Train loss: 1.068397280896401
+Iteration 840 Train loss: 1.0437875702771215
+Iteration 850 Train loss: 1.0136117946064178
+Iteration 860 Train loss: 0.9863249679610843
+Iteration 870 Train loss: 1.043251771086093
+Iteration 880 Train loss: 1.0103167087645937
+Iteration 890 Train loss: 0.9742450778412662
+Iteration 900 Train loss: 0.9692357495256244
+Iteration 910 Train loss: 0.9633469441790733
+Iteration 920 Train loss: 0.9565543728614591
+Iteration 930 Train loss: 0.9865253370456822
+Iteration 940 Train loss: 0.9662876681546542
+Iteration 950 Train loss: 0.975315624980739
+Iteration 960 Train loss: 0.9776893739745504
+Iteration 970 Train loss: 0.9508328918456083
+Iteration 980 Train loss: 0.9247195199732258
+Iteration 990 Train loss: 0.9615674041778883
+
+Generating text from RNN...
+def ret - e np.futogrt = autim
+                  #     e anca
+  rsf s =etumum_aram auton ct(
+import im_, return 0.5*(nput =
+def condomport outogratein rob
+                  rssinpar al
+
+import id(x):
+      e sct(=ef 
+    e returnnnsrob.h pmadidex[
+defsnutpurrayis:            e 
+  return n_loglik / inapt imo_
+                          e si
+      rstulogseam_scoreas =ogl
+  retuspeautinumport inputuat(
+                          nper
+frons imeos ppailchang.tesstum
+                      ashidsup
+def npareabse__timump(stum con
+frome_sreneinutp.tumpoy ainutp
+      so_((ime
+   e       retu
+de 1ret_li= nutpe_t__timlike(n

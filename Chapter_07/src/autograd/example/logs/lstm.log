@@ -1,0 +1,128 @@
+Training LSTM...
+Iteration 0 Train loss: 4.66286368746517
+Iteration 10 Train loss: 2.6316149132158375
+Iteration 20 Train loss: 2.3527208583094326
+Iteration 30 Train loss: 2.212684868058779
+Iteration 40 Train loss: 2.04684948702592
+Iteration 50 Train loss: 1.9149148980222508
+Iteration 60 Train loss: 1.8251032896184627
+Iteration 70 Train loss: 1.774612635866367
+Iteration 80 Train loss: 1.724579055013592
+Iteration 90 Train loss: 1.6869267636492402
+Iteration 100 Train loss: 1.6649007147069614
+Iteration 110 Train loss: 1.6499122572651517
+Iteration 120 Train loss: 1.645041503632787
+Iteration 130 Train loss: 1.616281957424424
+Iteration 140 Train loss: 1.5863804491002937
+Iteration 150 Train loss: 1.5701908131041042
+Iteration 160 Train loss: 1.56115861340927
+Iteration 170 Train loss: 1.5753975448020099
+Iteration 180 Train loss: 1.5552663583090764
+Iteration 190 Train loss: 1.5393852608791643
+Iteration 200 Train loss: 1.5250642572519488
+Iteration 210 Train loss: 1.5557830831695862
+Iteration 220 Train loss: 1.517433438699392
+Iteration 230 Train loss: 1.5022765202134676
+Iteration 240 Train loss: 1.4990034829232133
+Iteration 250 Train loss: 1.4911329207177542
+Iteration 260 Train loss: 1.509459608489967
+Iteration 270 Train loss: 1.4957612187440432
+Iteration 280 Train loss: 1.484498509410448
+Iteration 290 Train loss: 1.4771181041512527
+Iteration 300 Train loss: 1.468459748989446
+Iteration 310 Train loss: 1.4745342807831547
+Iteration 320 Train loss: 1.4657730094067638
+Iteration 330 Train loss: 1.4610205002725227
+Iteration 340 Train loss: 1.4644477932756097
+Iteration 350 Train loss: 1.4717734392552504
+Iteration 360 Train loss: 1.4555074211608945
+Iteration 370 Train loss: 1.4480553053426568
+Iteration 380 Train loss: 1.4363993150028627
+Iteration 390 Train loss: 1.4325669393014882
+Iteration 400 Train loss: 1.469733133855648
+Iteration 410 Train loss: 1.4431673745490776
+Iteration 420 Train loss: 1.4269216895292403
+Iteration 430 Train loss: 1.4363629401352598
+Iteration 440 Train loss: 1.447115346124462
+Iteration 450 Train loss: 1.4299334439193006
+Iteration 460 Train loss: 1.4257697973626708
+Iteration 470 Train loss: 1.4166328098995922
+Iteration 480 Train loss: 1.4443171671308708
+Iteration 490 Train loss: 1.5190157981821837
+Iteration 500 Train loss: 1.4913680195678622
+Iteration 510 Train loss: 1.7279967765062911
+Iteration 520 Train loss: 1.6375846294452765
+Iteration 530 Train loss: 1.5977302589279025
+Iteration 540 Train loss: 1.5359578583243783
+Iteration 550 Train loss: 1.4614644353026782
+Iteration 560 Train loss: 1.3835575003854759
+Iteration 570 Train loss: 1.3495436260190246
+Iteration 580 Train loss: 1.3114576407311478
+Iteration 590 Train loss: 1.297937980267525
+Iteration 600 Train loss: 1.2587962308947176
+Iteration 610 Train loss: 1.2343133744201567
+Iteration 620 Train loss: 1.2097317428570176
+Iteration 630 Train loss: 1.2606018676251538
+Iteration 640 Train loss: 1.190857162903863
+Iteration 650 Train loss: 1.1544993842530997
+Iteration 660 Train loss: 1.1330434031337535
+Iteration 670 Train loss: 1.10805476743822
+Iteration 680 Train loss: 1.112049892453944
+Iteration 690 Train loss: 1.1342118500870135
+Iteration 700 Train loss: 1.1000545347388067
+Iteration 710 Train loss: 1.101332206781229
+Iteration 720 Train loss: 1.0886400110801409
+Iteration 730 Train loss: 1.0733630382372337
+Iteration 740 Train loss: 1.065592249855735
+Iteration 750 Train loss: 1.0493578313964735
+Iteration 760 Train loss: 1.024851956362502
+Iteration 770 Train loss: 1.0132529591676356
+Iteration 780 Train loss: 1.0544589532702222
+Iteration 790 Train loss: 1.0506410534441506
+Iteration 800 Train loss: 1.022894367055913
+Iteration 810 Train loss: 1.0087312171760592
+Iteration 820 Train loss: 1.004480033018395
+Iteration 830 Train loss: 1.081935588370831
+Iteration 840 Train loss: 1.148931903023612
+Iteration 850 Train loss: 1.0550648730714693
+Iteration 860 Train loss: 1.038169257579861
+Iteration 870 Train loss: 0.9942269893924645
+Iteration 880 Train loss: 0.9772855349361518
+Iteration 890 Train loss: 0.9531502758258754
+Iteration 900 Train loss: 0.943833710108803
+Iteration 910 Train loss: 1.021245615482598
+Iteration 920 Train loss: 0.9876965887943501
+Iteration 930 Train loss: 0.954057875705164
+Iteration 940 Train loss: 0.9509503098524761
+Iteration 950 Train loss: 0.9382953772615765
+Iteration 960 Train loss: 0.9560343627173852
+Iteration 970 Train loss: 0.9426410168188719
+Iteration 980 Train loss: 1.183311772600702
+Iteration 990 Train loss: 1.172705378011422
+
+Generating text from LSTM...
+        hiddecigan = ce * put_
+    retport imparct(_pt in pe 
+ mf.m          porgat - sicatp
+    holut
+                    
+          ca.re:           ll'
+ """""""""""""             por
+ rom in _p.te input_petparam c
+ rom hatuuto_onim_sizpenp(*s, 
+    letumn apy im  put(
+     '
+           'utputdenetims.mp(*
+ "" LSlsts(cepe):     putput *
+ rom n_pp.harnpehnp.s_foillls 
+ mport aramq[ik__pdtped(cencn 
+    #    [hgretoulSTM
+        
+ rom n in(epn {'irt penstmpn {
+ rom autoatochaedtm__msped._ad
+ rom litpannlsts ((inumpt * 0.
+    out hampp.rant_s
+donputdoa
+ rom    reto0
+                
+ rom    ce inigm_rens:        
